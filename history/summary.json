@@ -4,9 +4,9 @@
     "url": "https://www.byzero.de",
     "icon": "https://favicons.githubusercontent.com/www.byzero.de",
     "slug": "byzero-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   },
   {
     "name": "hammelblog.de",
     "url": "https://www.hammelblog.de",
     "icon": "https://favicons.githubusercontent.com/www.hammelblog.de",
     "slug": "hammelblog-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 510,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   }
 ]
