@@ -5,8 +5,6 @@ repo: muhh-upptime # The name of this repository
 sites:
   - name: byzero.de
     url: https://www.byzero.de
-  - name: hammelblog.de
-    url: https://www.hammelblog.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +22,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Blog
       href: https://www.byzero.de
+    - title: Links
+      href: https://muhh.omg.lol
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
