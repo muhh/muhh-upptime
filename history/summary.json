@@ -4,7 +4,7 @@
     "url": "https://www.byzero.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.byzero.de.ico",
     "slug": "byzero-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 746,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2023-10-22": 0,
       "2023-10-05": 15,
       "2023-08-07": 18,
       "2023-07-18": 21,
